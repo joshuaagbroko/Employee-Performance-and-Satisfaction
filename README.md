@@ -65,9 +65,9 @@ Recommendations for HR interventions
 📂 Deliverables
 
 ✅ Cleaned and transformed dataset in BigQuery
-Data Cleaning SQL Script: (https://console.cloud.google.com/bigquery?sq=747713390430:f711e26af8cf45b1822295416c4373d1)
-Table ! Script: (https://console.cloud.google.com/bigquery?sq=747713390430:738e9734d53246e9b3844020b5f1fd28)
-Table 2 script: (https://console.cloud.google.com/bigquery?sq=747713390430:0dbd534b51f04c9fb4202bce4a898810)
+* Data Cleaning SQL Script: (https://console.cloud.google.com/bigquery?sq=747713390430:f711e26af8cf45b1822295416c4373d1)
+* Table ! Script: (https://console.cloud.google.com/bigquery?sq=747713390430:738e9734d53246e9b3844020b5f1fd28)
+* Table 2 script: (https://console.cloud.google.com/bigquery?sq=747713390430:0dbd534b51f04c9fb4202bce4a898810)
 
 ✅ Interactive Looker Studio dashboard
 https://lookerstudio.google.com/reporting/e2cb6883-2cd9-403b-8fe4-ce1b8b43482b
